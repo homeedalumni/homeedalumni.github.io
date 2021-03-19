@@ -1,0 +1,317 @@
+{
+  "settings": {
+    "name": "HomeEdAlumni",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {}
+    },
+    "path": "@PROJECT_PATH@",
+    "siteFonts": [],
+    "versionFirst": "4.7.7",
+    "uniqCompNum": 8,
+    "versionPublish": "4.7.7",
+    "screenshot": "screenshot.png",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "@PROJECT_PATH@/assets/images/118447800-110158960808711-9134562777844585225-o-128x91.png",
+    "noImageResize": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "gdpr": "",
+    "google-analytics": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/118495209-110158134142127-8891953797651788916-o-1-1123x794.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "National Home Education Alumni",
+          "text": "Alumni who uphold the heart of home education as they have personally glimpsed it; defending the right and responsibility of parents to educate their children in a way that lets them flourish; people giving back to the communities that shaped them.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mailchi.mp/f6795abb7023/become-a-member\" data-toolbar=\"-mbrBtnMove\">Become A Member</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#content5-1\" data-toolbar=\"-mbrBtnMove\">About Us</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-0"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/118447800-110158960808711-9134562777844585225-o-1123x794.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.9"
+          },
+          "title": "About Us",
+          "caption": "<p>\"Don’t be lazy, pick up the rock son, we have a house to build!</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "10",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/119118073-119841276507146-4282926880416573382-o-525x600.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Our Chairman",
+          "text": "<p>Meet our chairman, Josua Botha. He is the eldest of five children - all of them Home Educated from the start. Currently studying Computer Science at the University of Pretoria.<br><span style=\"font-size: 1.25rem;\">He says:</span><span style=\"font-size: 1.25rem;\">\"I believe that in order to live an honourable life one must take on the responsibilities that are proper for you to bear – “don’t be lazy, pick up the rock son, we have a house to build!”. As a home education alumni, I have two rocks I am certain I must carry. Firstly that of looking after my own children if ever I am blessed to have any; of raising them in accordance with God’s law. Secondly that of honouring my parents; honouring them for how they have raised me, for what they have taught me.<br></span><span style=\"font-size: 1.25rem;\">I believe I can do this by continuing to build the house they, and those before them, have built.<br></span><span style=\"font-size: 1.25rem;\">I have no choice but to stand for the right of parents and children to home educate – it is in my blood.&nbsp;</span><span style=\"font-size: 1.25rem;\">Finally, to build as well as I can I want to “talk shop” with other alumni – no point in hammering away alone. Together we can share some insider tips about what home education done well is all about, for ourselves, and for new home educators.&nbsp;</span><span style=\"font-size: 1.25rem;\">Join me. Join us.\"</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-5",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "10",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/119712054-123006399523967-3190862949096907824-o-414x486.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Our Secratary",
+          "text": "<p>Meet our secretary, Uda de Wet (née van Oostrum). <br>She says:<span style=\"font-size: 1.25rem;\">\"I am the middle child of three daughters, none of whom ever attended school except in the capacity as teacher. I taught ballet, music and self-defence before becoming a stay-at-home-mom. I am married to my best friend, Friedrich, and we are blessed with a little girl, Katja.<br></span><span style=\"font-size: 1.25rem;\">Home Education Alumni are in a very unique position: we know home education in a way nobody else does. Many people have studied home education, but we have experienced it. We know the good, we know the beautiful; we also know the bad and the ugly. We have been shaped by this thing called home education. And therefore we are in a unique position to love it, protect it, share it, and make it better.<br></span><span style=\"font-size: 1.25rem;\">I am deeply thankful to my parents and many in their generation for fighting for and defending home education. They did not experience it themselves, but still they shed blood, sweat and tears for it. And I am determined to leave the freedom that is home education also to my children, as my parents did for me.<br></span><span style=\"font-size: 1.25rem;\">I would like to close with this quote from Ronald Reagan: “Freedom is a fragile thing and is never more than one generation from extinction. It is not ours by inheritance; it must be fought for and defended constantly by each generation, for it comes only once to a people. Those who have known freedom and then lost it has never known it again.”\"</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-6"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "10",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/120042262-125441349280472-2934513337730729382-o-526x788.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Our Media Liason",
+          "text": "<p>Our media liaison is Cornelia Marais (née van Oostrum). She is married to Cilliers and lives in Pretoria. She was homeschooled for her whole schooling career and holds a BMus degree as well as a licentiate in violin education. Cornelia has worked as a music teacher at various schools in Pretoria and also runs her own studio. \n<br><span style=\"font-size: 1.25rem;\"><br>She says:&nbsp;<br></span><span style=\"font-size: 1.25rem;\">“Being home educated and growing up in a home where education was everyone's job, as well as their hobby, meant that I was involved in decisions on my own education from an early age. I naturally gravitated towards a career in education and I’m passionate about connecting with others and helping them discover their talents and interests through building relationships with them.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">I believe that each individual should have access to the type of education that will be in their best interests, which is why I am invested in promoting home education and the rights of homeschoolers in South Africa.”</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-7"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/118447800-110158960808711-9134562777844585225-o-265x187.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "",
+          "text2": "<strong>Contacts</strong><br>\nEmail: homeedalumni@gmail.com<br><br>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"https://www.liberty-in-learning.org/\">Liberty in Learning</a></li><li><a href=\"https://pestalozzi.org/en/home/\">Pestalozi Trust</a></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-4"
+        }
+      ]
+    }
+  }
+}
